@@ -1,1 +1,0 @@
-from .schemalite import Schema

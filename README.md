@@ -1,6 +1,6 @@
-`pip install lotusdb`
+`pip install schemax`
 ```python
-from schemalite import Schema
+from schemax import Schema
 schema = Schema({
     'a': {
         'b': str

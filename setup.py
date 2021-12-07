@@ -1,14 +1,14 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='schemalite',
+    name='schemax',
     version='0.0.1',
     author='d3tu',
     author_email='jpafly@gmail.com',
     description="Filter dict's.",
     packages=find_packages(),
     install_requires=[],
-    keywords=['filter', 'dict'],
+    keywords=['filter', 'parse', 'dict', 'types'],
     classifiers=[
         'Development Status :: 1 - Planning',
         'Intended Audience :: Developers',
