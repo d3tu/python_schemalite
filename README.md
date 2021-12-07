@@ -1,3 +1,4 @@
+`pip install lotusdb`
 ```python
 from schemalite import Schema
 schema = Schema({
